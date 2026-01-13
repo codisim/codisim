@@ -26,8 +26,8 @@ I am a backend-focused developer building scalable systems with **Go** and **Nod
 I enjoy tackling complex algorithms and data structure problems:
 * **Languages:** C, C++, Go
 * **Platforms:**
-    * [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black">](https://leetcode.com/u/your_leetcode_username/)
-    * [<img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white">](https://codeforces.com/profile/your_codeforces_username)
+    * [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black">](https://leetcode.com/u/waliullah9099/)
+    * [<img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white">](https://codeforces.com/profile/dev.waliullah)
 
 ---
 
