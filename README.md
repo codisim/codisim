@@ -1,187 +1,59 @@
-<!--
 <div align="center">
-  
-  <h1>
-    Hi there, I'm MD Waliullah
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" width="45" height="45" />
-  </h1>
-  
-  <h3>Jr. Software Developer specialising in Typescript and Node.js</h3>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/engwaliullah/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://github.com/gowaliullah"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="mailto:waliullah9099@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:0D1117&height=200&section=header&text=Hi%20I'm%20Waliullah&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
+  <h3>🚀 Jr. Software Developer | Aspiring Go Backend Engineer</h3>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/engwaliullah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:waliullah9099@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  </p>
 </div>
 
 ---
-<!--
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SohelIslamImran&label=Profile%20views&color=0e75b6&style=flat" alt="SohelIslamImran" />
-</p>
+### 👨‍💻 About Me
 
- -->
+I am a passionate Backend Developer transitioning my expertise from **TypeScript/Node.js** to building high-performance systems with **Go (Golang)**. I thrive on solving complex architectural problems and building scalable APIs.
 
-
-### 🤔 About Me
-As an aspiring backend developer with a solid foundation in web technologies, I am now focused on building scalable, efficient systems using Go (Golang). I am seeking a backend-focused internship where I can deepen my understanding of server-side development, microservices architecture, and API design using Go, while contributing to real-world projects in a collaborative engineering environment.
+* 🔭 **Current Focus:** Deep diving into Microservices and Concurrent Programming in Go.
+* ⚡ **Goal:** Seeking a Backend Internship to contribute to robust, real-world engineering projects.
+* 🌱 **Learning:** Distributed Systems, Kubernetes, and Advanced SQL optimization.
 
 ---
 
-### 🚀 My Tech Stack
+### 🛠️ My Tech Stack
 
-Here are the primary tools and technologies I work with:
-<table align="center">
-  <tr>
-   <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="Go" />
-      </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="Go" />
-      </a>
-      <br>Typescript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Go" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Go" />
-      </a>
-      <br>Express.js
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="45" height="45" alt="Go" />
-      </a>
-      <br>Postgresql
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=prisma" width="45" height="45" alt="Go" />
-      </a>
-      <br>Prisma
-    </td>
-        <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="Go" />
-      </a>
-      <br>React.js
-    </td>
-    </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Go" />
-      </a>
-      <br>Nextjs
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
-      </a>
-      <br>Golang
-    </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Go" />
-      </a>
-      <br>Docker
-    </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Go" />
-      </a>
-      <br>Git
-    </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="Go" />
-      </a>
-      <br>Github
-    </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Go" />
-      </a>
-      <br>Postman
-    </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="Go" />
-      </a>
-      <br>VS Code
-    </td>
-  </tr>
-</table>
-
-
-
-### 📊 My GitHub Analytics
-
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
-<p align="">
-    <img alt="Waliullah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=engWaliullah&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" />
+**Languages & Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,express,prisma,postgres,mongodb" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=waliullah9099&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=waliullah9099&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+**Frontend & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,git,github,postman,vscode" />
+</p>
 
+---
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Waliullah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowaliullah&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
-  </a>
-  </a> -->
+### 📊 GitHub Activity
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=tswaliullah&theme=vue-dark&hide_border=true) <br/>
-        <!--START_SECTION:waka-->
-        <!--END_SECTION:waka-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tswaliullah&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tswaliullah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tswaliullah&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tswaliullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!-- <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=engWaliullah&theme=tokyonight&hide_border=true" />
-  </a>
-</p> -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
 
-
-
-
-
-
-
-<!--
-
-<img align="center" alt="Coding" width="100%" src="https://github.com/user-attachments/assets/2885f670-60da-47b5-92d0-52e3058a60c8)" />
-
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%230db7ed.svg?style=for-the-badge&logo=typescript&logoColor=%5A0EF8) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-FF6C39.svg?style=for-the-badge&logo=Mongoose&logoColor=white)
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eng.waliullah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eng-waliullah) ]
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=waliullah9099&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=waliullah9099&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!--
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tswaliullah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
