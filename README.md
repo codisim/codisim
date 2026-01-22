@@ -25,10 +25,8 @@ I am a backend-focused developer building scalable systems with **Go** and **Nod
 
 ### 🧩 Problem Solving
 I enjoy tackling complex algorithms and data structure problems:
-* **Languages:** C, C++, Go
-* **Platforms:**
-    * [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black">](https://leetcode.com/u/your_leetcode_username/)
-    * [<img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white">](https://codeforces.com/profile/your_codeforces_username)
+* **Languages:** C, C++, Go, Javascript, Typescript
+* **Platforms:** [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black">](https://leetcode.com/u/your_leetcode_username/) [<img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white">](https://codeforces.com/profile/your_codeforces_username)
 
 ---
 
@@ -42,7 +40,7 @@ I enjoy tackling complex algorithms and data structure problems:
 -->
 
    <img width="845"  src="https://nirzak-streak-stats.vercel.app?user=codisim&hide_border=true&border_radius=5&card_width=800&theme=radical">
-  <img   width="845" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codisim&theme=radical" />
+  <!-- <img   width="845" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codisim&theme=radical" /> -->
   
  <p > 
   <img height="190"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=codisim&layout=compact&theme=radical&hide_border=true"/>
@@ -55,9 +53,9 @@ I enjoy tackling complex algorithms and data structure problems:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codisim&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codisim&theme=tokyonight" width="100%" />
-</p>
+</p> -->
 
 ---
 
